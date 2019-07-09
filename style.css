@@ -1,0 +1,13 @@
+.content{
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, #name {
+  color: #3666ff
+}
+
