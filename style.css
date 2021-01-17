@@ -2,12 +2,12 @@
   padding: 20px;
 }
 
-h1, h2, h3 {
+h1, h2, h3, a {
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
 
-h1, #name {
+h1, a, #name {
   color: #3666ff
 }
 
